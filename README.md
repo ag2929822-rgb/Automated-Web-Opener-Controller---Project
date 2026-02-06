@@ -88,10 +88,6 @@ College mini project or resume portfolio
 
 Contributions are welcome! Fork the repository, add features, and submit a pull request.
 
-📜 License
-
-This project is licensed under the MIT License.
-
 ⭐ Support
 
 If you like this project, don’t forget to ⭐ the repository!# Automated-Web-Opener-Controller---Project
