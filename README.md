@@ -27,10 +27,8 @@ Optional: Tkinter for GUI
 📂 Project Structure
 Automated-Web-Opener/
 │
-├── main.py
-├── websites.txt
+├── Automated Web Opener.py
 ├── README.md
-└── utils/
 
 ⚙️ Installation
 
